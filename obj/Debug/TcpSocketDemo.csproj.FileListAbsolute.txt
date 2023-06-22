@@ -1,0 +1,5 @@
+C:\Users\hsuan\source\repos\TcpSocketDemo\obj\Debug\TcpSocketDemo.csproj.AssemblyReference.cache
+C:\Users\hsuan\source\repos\TcpSocketDemo\obj\Debug\TcpSocketDemo.MainForm.resources
+C:\Users\hsuan\source\repos\TcpSocketDemo\obj\Debug\TcpSocketDemo.Properties.Resources.resources
+C:\Users\hsuan\source\repos\TcpSocketDemo\obj\Debug\TcpSocketDemo.csproj.GenerateResource.cache
+C:\Users\hsuan\source\repos\TcpSocketDemo\obj\Debug\TcpSocketDemo.csproj.CoreCompileInputs.cache
